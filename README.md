@@ -7,4 +7,4 @@
 * CSS
 * SwiperJS
 
-## Link do projeto: https://vitoriafelix.github.io/AluraBook/
+### Link do projeto: https://vitoriafelix.github.io/AluraBook/
